@@ -13,12 +13,14 @@ Además de ser una norma, es un mecanismo para **deducir la fórmula  a partir d
 
 Por ejemplo, si tenemos la siguiente tabla de verdad:
 ```
+
 a  b  | s
 ---------
 0  0  | 1
 0  1  | 0
 1  0  | 0
 1  1  | 0
+
 ```
 Solamente el primer caso tiene salida 1. Su término es `-a.-b`, porque ambos valen 0.
 
