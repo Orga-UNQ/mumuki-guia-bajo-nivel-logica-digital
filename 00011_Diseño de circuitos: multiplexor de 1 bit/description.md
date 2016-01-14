@@ -10,6 +10,5 @@ si c=0 entonces s=e0, si c=1 entonces s=e1
 
 La caja negra de un multiplexor es:
 
-![caja negra mux](https://github.com/Orga-UNQ/mumuki-guia-bajo-nivel-logica-digital/blob/master/mux.png?raw=true "Logo Title Text 1")
-
+![caja negra mux](https://github.com/Orga-UNQ/mumuki-guia-bajo-nivel-logica-digital/blob/master/assets/mux.png?raw=true "Logo Title Text 1")
 

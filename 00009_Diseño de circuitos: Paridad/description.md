@@ -2,7 +2,7 @@ Se encesita diseñar un circuito de 3 entradas y una salida, cuya salida sea tal
 
 Como en el circuito _mayoría_, la **caja negra** del circuito es:
 
-![alt text](https://github.com/Orga-UNQ/mumuki-guia-bajo-nivel-logica-digital/blob/master/cajanegra3entradas.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/Orga-UNQ/mumuki-guia-bajo-nivel-logica-digital/blob/master/assets/cajanegra3entradas.png?raw=true "Logo Title Text 1")
 
 
 Por ejemplo, para la entrada 101 la salida es 0 y para la entrada 111 la salida es 1. 
