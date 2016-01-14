@@ -1,0 +1,2 @@
+equal: '-a.-b.c+-a.b.-c+a.-b.-c+a.b.c
+ignore_whitespace: true
