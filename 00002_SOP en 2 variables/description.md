@@ -1,5 +1,6 @@
 ##Poniendo a prueba
 Deduzca la formula de la siguiente tabla usando **Suma De Productos** (SOP)
+
 ```
 p  q  | s
 ---------
