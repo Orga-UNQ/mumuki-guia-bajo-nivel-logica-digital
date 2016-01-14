@@ -1,0 +1,1 @@
+Probá el circuito obtenido con al menos 4 casos, es decir, simulá que se ingresan valores (0 o 1) en las entradas y verificá si la salida obtenida es lo que esperabas.
