@@ -1,1 +1,2 @@
-equals('-p.-q+-p.q+p.-q')
+equal: '-p.-q+p.-q'
+ignore_whitespace: true
