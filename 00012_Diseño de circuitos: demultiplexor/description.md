@@ -6,3 +6,4 @@ Así como la unidad de control necesita multiplexores, son necesarios circuitos 
 ```
 si c=0 entonces s0=e, si c=1 entonces s1=e
 ```
+> Dar la fórmula de verdad de un multiplexor de dos salidas
