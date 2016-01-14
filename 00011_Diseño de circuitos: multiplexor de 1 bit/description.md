@@ -12,3 +12,4 @@ La caja negra de un multiplexor es:
 
 ![caja negra mux](https://github.com/Orga-UNQ/mumuki-guia-bajo-nivel-logica-digital/blob/master/assets/mux.png?raw=true "Logo Title Text 1")
 
+> Dar la fórmula de verdad de un demux de 2 entradas como el de la figura
