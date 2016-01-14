@@ -12,21 +12,22 @@ Notá que la expresión SOP anterior tiene **dos términos** y en el primero hay
 Además de ser una norma, es un mecanismo para **deducir la fórmula  a partir de una tabla de verdad**. Para hacerlo, se debe extraer el término que describe cada caso de la tabla de verdad que verifica la fórmula. Es decir, **cada fila donde la salida vale 1**. 
 
 Por ejemplo, si tenemos la siguiente tabla de verdad:
-```
 
+```
 a  b  | s
 ---------
 0  0  | 1
 0  1  | 0
 1  0  | 0
 1  1  | 0
-
 ```
+
 Solamente el primer caso tiene salida 1. Su término es `-a.-b`, porque ambos valen 0.
 
 
 ##Poniendo a prueba
 Teniendo en cuenta la siguiente tabla:
+
 ```
 p  q  | s
 ---------
@@ -37,6 +38,7 @@ p  q  | s
 ```
 
 Copiá la SOP en el editor:
+
 ```
 -p.-q+p.-q
 ```
