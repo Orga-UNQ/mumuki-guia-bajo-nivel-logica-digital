@@ -8,9 +8,7 @@ Caja negra del FA(16)
 
 Vamos a construirlo, pero empecemos por algo mas simple, un sumador de dos cadenas de 1 bit.
 
-```
-Caja negra del HA(1)
-```
+![alt text](https://github.com/Orga-UNQ/mumuki-guia-bajo-nivel-logica-digital/blob/master/assets/ha1.png?raw=true "texto")
 
 Para resolverlo, debemos tener en mente los 4 casos de la suma de 1 bit:
 
