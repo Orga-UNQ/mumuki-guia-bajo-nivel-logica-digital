@@ -37,5 +37,5 @@ a b || s | c
 0 1 || 1 | 0
 1 1 || 0 | 1
 ```
-
+## A trabajar
 > Escribir la fórmula de verdad para la salida S

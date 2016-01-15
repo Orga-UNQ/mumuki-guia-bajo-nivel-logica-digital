@@ -10,5 +10,5 @@ En otras palabras, se necesita un circuito con 5 salidas, que indican la validez
 
 
 Es importante notar que no todas las salidas se encienden al mismo tiempo, pero si se cumple `a>=b`entonces también se cumple `a=b` y `a>b`
-
+## A trabajar
 ¿Cuál es la fórmula de verdad para `a>=b`?

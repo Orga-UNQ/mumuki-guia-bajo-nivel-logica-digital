@@ -8,3 +8,5 @@ Un decodificador traduce una cadena de bits en un pulso para una determinada sal
 ```
  Acá va un caso del deco
 ```
+
+## A trabajar

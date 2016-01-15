@@ -21,6 +21,6 @@ Si contáramos con un HA y un FA ya sería posible resolver el problema de la su
 
 ![alt text](https://github.com/Orga-UNQ/mumuki-guia-bajo-nivel-logica-digital/blob/master/assets/fa2-circuito.png?raw=true "Implementacion del Full Adder de 2 bit")
 
-
+## A trabajar
 > Dar la fórmula de verdad del FA de un bit (no te olvides de pensar primero la tabla de verdad!)
 

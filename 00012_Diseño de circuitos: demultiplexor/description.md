@@ -24,4 +24,5 @@ si c=0 entonces s0=e, si c=1 entonces s1=e
  Acá va un caso del deco, donde la entrada vale 1 y debe salir por s1
 ```
 
+## A trabajar
 > Dar la fórmula de verdad de un multiplexor de dos salidas

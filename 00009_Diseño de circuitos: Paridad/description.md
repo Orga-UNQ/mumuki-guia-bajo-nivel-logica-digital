@@ -6,5 +6,5 @@ Como en el circuito _mayoría_, la **caja negra** del circuito es:
 
 
 Por ejemplo, para la entrada 101 la salida es 0 y para la entrada 111 la salida es 1. 
-
+## A trabajar
 Plantee la solución como una tabla de verdad y derive el circuito de esta última. Pruebe el circuito obtenido con al menos 4 casos, es decir, simule que se ingresan valores (0 o 1) en las entradas y verifique si la salida obtenida es la esperada.
