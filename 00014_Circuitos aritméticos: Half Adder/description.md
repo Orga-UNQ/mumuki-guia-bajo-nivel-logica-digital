@@ -1,0 +1,38 @@
+La ALU debe poder realizar operaciones entre cadenas de un determinado sistema binario, supongamos de 16 bits. 
+
+¿Cómo sería un sumador de dos cadenas BSS(16)?
+
+```
+Caja negra del FA(16)
+```
+
+Vamos a construirlo, pero empecemos por algo mas simple, un sumador de dos cadenas de 1 bit.
+
+```
+Caja negra del HA(1)
+```
+
+Para resolverlo, debemos tener en mente los 4 casos de la suma de 1 bit:
+
+```
+a b | s
+-------
+0 0 | 0
+0 1 | 1
+0 1 | 1
+1 1 | 0, c=1
+```
+
+Es importante notar el ultimo caso, donde hay un acarreo! esto puede pensarse como **dos salidas**:
+
+
+```
+a b || s | c
+------------
+0 0 || 0 | 0
+0 1 || 1 | 0 
+0 1 || 1 | 0
+1 1 || 0 | 1
+```
+
+> Escribir la fórmula de verdad para la salida S

@@ -1,0 +1,1 @@
+Si el demultiplexor tiene 2 salidas, ¿Cuántas líneas de control se necesitan para distinguirlas?

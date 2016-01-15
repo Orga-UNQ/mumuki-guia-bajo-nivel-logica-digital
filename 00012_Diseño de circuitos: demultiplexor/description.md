@@ -13,4 +13,15 @@ si c=0 entonces s0=e, si c=1 entonces s1=e
 
 ¡Es una **estructura condicional**!
 
+
+
+```
+ Acá va un caso del deco, donde la entrada vale 0 y debe salir por s0
+```
+
+
+```
+ Acá va un caso del deco, donde la entrada vale 1 y debe salir por s1
+```
+
 > Dar la fórmula de verdad de un multiplexor de dos salidas
