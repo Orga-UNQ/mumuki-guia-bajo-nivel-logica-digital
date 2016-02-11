@@ -1,4 +1,4 @@
-##Poniendo a prueba
+## Poniendo a prueba
 Deduzca la formula de la siguiente tabla usando **Suma De Productos** (SOP)
 
 ```
