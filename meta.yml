@@ -3,6 +3,7 @@ name: Lógica Digital
 locale: es
 type: practice
 beta: false
+teacher_info: 
 language: text
 id_format: '%05d'
 order:
