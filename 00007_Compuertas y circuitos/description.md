@@ -19,3 +19,6 @@ Para poder ejercitar, usaremos la siguiente notación:
 |xor   |  #   |
 |nand  |  &   |
 |nor   |  $   |
+
+
+> Entremos en calor: copiá y pegá en el editor la expresión (a#b)+a
