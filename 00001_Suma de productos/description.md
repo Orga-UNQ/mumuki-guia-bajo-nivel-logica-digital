@@ -13,29 +13,27 @@ Además de ser una norma, es un mecanismo para **deducir la fórmula  a partir d
 
 Por ejemplo, si tenemos la siguiente tabla de verdad:
 
-```
-a  b  | s
----------
-0  0  | 1
-0  1  | 0
-1  0  | 0
-1  1  | 0
-```
+
+|a|  b  | s|
+|:---:|:---:|:---:|
+|0    |  0  | 1|
+|0    |  1  | 0|
+|1    |  0  | 0|
+|1    |  1  | 0|
+
 
 Solamente el primer caso tiene salida 1. Su término es `-a.-b`, porque ambos valen 0.
 
 
-##Poniendo a prueba
+## Poniendo a prueba
 Teniendo en cuenta la siguiente tabla:
 
-```
-p  q  | s
----------
-0  0  | 1
-0  1  | 0
-1  0  | 1
-1  1  | 0
-```
+|p| q  | s|
+|:---:|:---:|:---:|
+|0    |  0  | 1|
+|0    |  1  | 0|
+|1    |  0  | 1|
+|1    |  1  | 0|
 
 Copiá la SOP en el editor:
 
