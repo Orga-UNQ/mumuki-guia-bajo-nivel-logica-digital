@@ -10,3 +10,12 @@ Este último paso puede incluir compuertas complejas (como el Nand, Nor, XOR) o 
 Las compuertas que usaremos se grafican como sigue:
 
 ![alt text](https://github.com/Orga-UNQ/mumuki-guia-bajo-nivel-logica-digital/blob/master/assets/referencias.png?raw=true "Logo Title Text 1")
+
+Para poder ejercitar, usaremos la siguiente notación:
+
+
+|compuerta    | símbolo|
+|:---:|:---:|
+|xor   |  #   |
+|nand  |  &   |
+|nor   |  $   |
