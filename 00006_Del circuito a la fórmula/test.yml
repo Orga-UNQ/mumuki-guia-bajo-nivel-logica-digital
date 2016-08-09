@@ -1,2 +1,2 @@
-equal: '-p.-q+p.-q'
+equal: '(a$b).c'
 ignore_whitespace: true
