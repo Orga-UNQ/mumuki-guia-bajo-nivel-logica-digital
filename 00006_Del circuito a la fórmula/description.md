@@ -7,6 +7,8 @@ No olvides los símbolos
 
 |compuerta    | símbolo|
 |:---:|:---:|
+|or    |  +   |
+|and   |  .   |
 |xor   |  #   |
 |nand  |  &   |
 |nor   |  $   |
