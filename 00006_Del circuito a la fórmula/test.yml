@@ -1,2 +1,2 @@
-equal: '(a$b).c'
+equal: '(A$B).C'
 ignore_whitespace: true
