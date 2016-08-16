@@ -1,2 +1,3 @@
 equal: '(A$B).C'
 ignore_whitespace: true
+ignore_case: true
