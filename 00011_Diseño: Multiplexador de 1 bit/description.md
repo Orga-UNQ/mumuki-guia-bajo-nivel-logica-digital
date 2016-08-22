@@ -1,12 +1,9 @@
 Se necesita construir un circuito que permita **seleccionar una de sus dos entradas para proyectarla en la salida**, en función de una línea de control. 
 
 
-Imaginemos un ejemplo. Supongamos que tenemos vias de entrada a la terminal de trenes, pero un solo anden. Entonces necesitamos una *palanca* que permita dar paso a una via u otra para que el tren avance hasta el andén. Gráficamente:
+Imaginemos un ejemplo. Supongamos que tenemos dos vias de entrada a la terminal de trenes, pero un solo anden. Entonces necesitamos un *semáforo* que permita dar paso a una via u otra para que el tren avance hasta el andén. Gráficamente:
 
 ![Mux trenes](https://github.com/Orga-UNQ/mumuki-guia-bajo-nivel-logica-digital/blob/master/assets/mux-tren.png?raw=true "Mux")
-
-
-
 
 Este tipo de operaciones se denomina **multiplexación**. Si el control vale 1, se proyecta la entrada _e0_, y en caso contrario se proyecta _e1_. Es decir:
 
