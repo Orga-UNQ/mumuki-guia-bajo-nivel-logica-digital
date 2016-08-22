@@ -15,14 +15,18 @@ Por ejemplo, los siguientes son dos de los cuatro casos del deco:
 
 Quizás ya lo notaste: el decodificador tiene muchas salidas! Es importante aclarar que cada salida es una [función](https://en.wikipedia.org/wiki/Function_(mathematics)) de las entradas y por lo tanto, debemos dar **una funcion de verdad para cada una**.
 
-## A trabajar
-
-> Escribí la tabla de verdad del decodificador con sus cuatro salidas, reemplazando los **?** por 0 o 1:
-
+La tabla de verdad del decodificador es entonces:
 
 | e1  |  e2 | s1|s2|s3|s4
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|0    |  0  | ?|?|?|?|
-|0    |  1  | ?|?|?|?|
-|1    |  0  | ?|?|?|?|
-|1    |  1  | ?|?|?|?|
+|0    |  0  | 1|0|0|0|
+|0    |  1  | 0|1|0|0|
+|1    |  0  | 0|0|1|0|
+|1    |  1  | 0|0|0|1|
+
+
+
+## A trabajar
+
+> Escribí la función de verdad para la salida s1, consuderando la tabla de verdad descripta arriba
+
