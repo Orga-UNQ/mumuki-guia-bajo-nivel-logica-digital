@@ -14,4 +14,16 @@ La caja negra de un multiplexor es:
 
 
 ## A trabajar
-> Dar la fórmula de verdad de un demux de 2 entradas como el de la figura
+> Dar la fórmula de verdad de un demux de 2 entradas como el de la figura, considerando una estructura de tabla de verdad  como la que sigue
+
+
+|c    | e1   | e2 | s |
+|:---:|:---:|:---:|:---:|
+| 0  | 0    |  0  | ?|
+| 0  | 0    |  1  | ?|
+| 0  | 1    |  0  | ?|
+| 0  | 1    |  1  | ?|
+| 1  | 0    |  0  | ?|
+| 1  | 0    |  1  | ?|
+| 1  | 1    |  0  | ?|
+| 1  | 1    |  1  | ?|
