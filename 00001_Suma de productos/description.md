@@ -24,6 +24,8 @@ Por ejemplo, si tenemos la siguiente tabla de verdad:
 
 Solamente el primer caso tiene salida 1. Su término es `-a.-b`, porque ambos valen 0.
 
+***Ojo:*** El orden de los términos debe escribirse como aparece en la tabla!
+
 
 ## Poniendo a prueba
 Teniendo en cuenta la siguiente tabla:
