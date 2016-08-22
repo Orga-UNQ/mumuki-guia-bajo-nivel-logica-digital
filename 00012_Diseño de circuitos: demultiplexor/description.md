@@ -1,3 +1,5 @@
+### Idea
+
 Así como la unidad de control necesita multiplexores, son necesarios circuitos que permitan derivar **una única entrada en una determinada salida** en función de líneas de control. 
 
 Esto puede pensarse como cuando un tren llega a la estación terminal y se le debe dar un anden para detenerse.
