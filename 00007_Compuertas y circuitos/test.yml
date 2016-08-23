@@ -1,1 +1,1 @@
-equals ''
+equal: '(a#b)+a'

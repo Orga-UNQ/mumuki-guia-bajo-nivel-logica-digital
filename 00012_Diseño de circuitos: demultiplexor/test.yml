@@ -1,2 +1,3 @@
-equal: ''
+equal: 'e.c'
 ignore_whitespace: true
+ignore_case: true

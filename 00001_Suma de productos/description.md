@@ -1,3 +1,5 @@
+### Estableciendo una norma
+
 La expresión SOP (Suma De Productos) es una **norma de escritura** para las fórmulas de verdad. Como lo dice su nombre, es una suma (disyunción, OR, '+') de términos que son productos (conjunciones, AND, '.') entre literales.
 
 ¿Y qué es un literal? Bueno, es una variable o su negación.
@@ -13,29 +15,29 @@ Además de ser una norma, es un mecanismo para **deducir la fórmula  a partir d
 
 Por ejemplo, si tenemos la siguiente tabla de verdad:
 
-```
-a  b  | s
----------
-0  0  | 1
-0  1  | 0
-1  0  | 0
-1  1  | 0
-```
+
+|a|  b  | s|
+|:---:|:---:|:---:|
+|0    |  0  | 1|
+|0    |  1  | 0|
+|1    |  0  | 0|
+|1    |  1  | 0|
+
 
 Solamente el primer caso tiene salida 1. Su término es `-a.-b`, porque ambos valen 0.
 
+***Ojo:*** El orden de los términos debe escribirse como aparece en la tabla!
 
-##Poniendo a prueba
+
+## Poniendo a prueba
 Teniendo en cuenta la siguiente tabla:
 
-```
-p  q  | s
----------
-0  0  | 1
-0  1  | 0
-1  0  | 1
-1  1  | 0
-```
+|p| q  | s|
+|:---:|:---:|:---:|
+|0    |  0  | 1|
+|0    |  1  | 0|
+|1    |  0  | 1|
+|1    |  1  | 0|
 
 Copiá la SOP en el editor:
 

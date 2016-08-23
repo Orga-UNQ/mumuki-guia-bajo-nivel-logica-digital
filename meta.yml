@@ -3,10 +3,11 @@ name: Lógica Digital
 locale: es
 type: practice
 beta: false
-teacher_info: 
+teacher_info: ''
 language: text
 id_format: '%05d'
 order:
+- 16
 - 1
 - 2
 - 3
@@ -19,6 +20,8 @@ order:
 - 10
 - 11
 - 13
+- 17
 - 12
 - 14
 - 15
+- 18
