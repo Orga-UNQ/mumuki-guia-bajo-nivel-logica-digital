@@ -1,3 +1,5 @@
+### Estableciendo una norma
+
 La expresión SOP (Suma De Productos) es una **norma de escritura** para las fórmulas de verdad. Como lo dice su nombre, es una suma (disyunción, OR, '+') de términos que son productos (conjunciones, AND, '.') entre literales.
 
 ¿Y qué es un literal? Bueno, es una variable o su negación.
