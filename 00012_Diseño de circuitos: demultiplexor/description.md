@@ -22,7 +22,8 @@ Retomando la metáfora de los trenes: esto puede pensarse como cuando un tren ll
 si c=0 entonces s0=e, si c=1 entonces s1=e
 ```
 
-En términos generales, el demultiplexor tiene la siguiente estructura
+### A mas salidas, mas controles
+Si el demultiplexor debe computar 4 salidas, entonces debe aumentar la cantidad de controles. Podemos ver un ejemplo de 4 salidas en la siguiente figura
 
 
 ![caja negra demux](https://github.com/Orga-UNQ/mumuki-guia-bajo-nivel-logica-digital/blob/master/assets/demux.png?raw=true "Demultiplexor")
@@ -30,15 +31,11 @@ En términos generales, el demultiplexor tiene la siguiente estructura
 
 
 ## A trabajar
-> Dar la fórmula de verdad de un multiplexor de dos salidas (como el que se describió)
+> Dar la fórmula de verdad de *la salida s1* en un multiplexor de dos salidas
 
-| e  |  c1 | c2 | s 
+| e   |  c  | s1  |  S2 |
 |:---:|:---:|:---:|:---:|
-|0|0    |  0  | ?|
-|0|0    |  1  | ?|
-|0|1    |  0  | ?|
-|0|1    |  1  | ?|
-|1|0    |  0  | ?|
-|1|0    |  1  | ?|
-|1|1    |  0  | ?|
-|1|1    |  1  | ?|
+|  0  |  0  |  ?  |  ?  |
+|  0  |  1  |  ?  |  ?  |
+|  1  |  0  |  ?  |  ?  |
+|  1  |  1  |  ?  |  ?  |
