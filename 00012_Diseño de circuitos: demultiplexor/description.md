@@ -33,7 +33,7 @@ Si el demultiplexor debe computar 4 salidas, entonces debe aumentar la cantidad 
 ## A trabajar
 > Dar la fórmula de verdad de *la salida s1* en un multiplexor de dos salidas
 
-| e   |  c  | s1  |  S2 |
+| e   |  c  | s0  |  s1 |
 |:---:|:---:|:---:|:---:|
 |  0  |  0  |  ?  |  ?  |
 |  0  |  1  |  ?  |  ?  |
