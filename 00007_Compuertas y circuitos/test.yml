@@ -1,1 +1,3 @@
 equal: '(a#b)+a'
+
+ignore_case: true

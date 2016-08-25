@@ -1,2 +1,4 @@
 equal: '-p.-q+p.-q'
 ignore_whitespace: true
+
+ignore_case: true
