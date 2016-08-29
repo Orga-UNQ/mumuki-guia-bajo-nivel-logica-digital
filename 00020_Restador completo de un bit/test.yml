@@ -1,0 +1,3 @@
+equal: '-a.-b.-Ce+-a.b.-Ce+-a.b.Ce+a.b.Ce'   
+ignore_whitespace: true
+ignore_case: true
