@@ -6,7 +6,7 @@ En otras palabras, se necesita un circuito con 5 salidas, que indican la validez
 * a>=b
 * a=b
 * a<=b
-* a>b
+* a<b
 
 
 Es importante notar que no todas las salidas se encienden al mismo tiempo, pero si se cumple `a>=b`entonces también se cumple `a=b` y `a>b`
