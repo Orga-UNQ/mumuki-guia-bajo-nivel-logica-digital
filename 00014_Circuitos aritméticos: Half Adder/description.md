@@ -32,7 +32,7 @@ Es importante notar el ultimo caso, donde hay un acarreo! esto puede pensarse co
 |:---:|:---:|:---:|:---:|
 |0| 0 | 0 | 0|
 |0| 1 | 1 | 0 |
-|0 |1 | 1 | 0|
+|1| 0 | 1 | 0|
 |1| 1 | 0 | 1|
 
 ## A trabajar
